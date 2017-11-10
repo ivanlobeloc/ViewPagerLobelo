@@ -53,5 +53,4 @@ public class CustomSwipeAadapter extends PagerAdapter {
         container.removeView((LinearLayout)object);
     }
 
-
 }
